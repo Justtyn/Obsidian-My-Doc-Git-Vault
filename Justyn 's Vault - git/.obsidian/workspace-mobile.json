@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "c9d77739dafa511b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f5675d64e0eed31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1119df5abb3346d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Justyn‘s Doc/Android Studio/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee754df4ea673a98",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "369b74376dd49723",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b845af843d04e058",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e571aaa5fdbb7db3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2190f0307d853aa5",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "62af2a1f6c13dad9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0f10d95102e07bc7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Justyn‘s Doc/Android Studio/未命名.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5ccb94380f33faa4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Justyn‘s Doc/Android Studio/未命名.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "31f8ea520da208d4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Justyn‘s Doc/Android Studio/未命名.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "369b74376dd49723",
+  "lastOpenFiles": []
+}
