@@ -11,8 +11,12 @@
             "id": "1119df5abb3346d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Justyn‘s Doc/Android Studio/UI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Justyn‘s Doc/Android Studio/UI.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Justyn‘s Doc/Android Studio/UI.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,12 +113,16 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Justyn‘s Doc/Android Studio/UI.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "369b74376dd49723",
-  "lastOpenFiles": []
+  "active": "1119df5abb3346d3",
+  "lastOpenFiles": [
+    "Justyn‘s Doc/Android Studio/UI.md"
+  ]
 }
